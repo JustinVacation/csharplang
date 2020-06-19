@@ -55,7 +55,7 @@ public void AnotherMethod()
 ## Drawbacks
 [drawbacks]: #drawbacks
 
-Generic way of optional types. Get rid of null.
+Generic definition of optional types. Get rid of null.
 
 ## Alternatives
 [alternatives]: #alternatives
